@@ -1,2 +1,2 @@
-# -Practice-Simple-MES
-[Spring Framework] Java, JSP, Oracle
+# Practice/sample/spring-framework
+[Spring Framework] Java, JSP, Oracle, mybatis
