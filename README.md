@@ -1,2 +1,2 @@
 # Practice/sample/spring-framework
-[Spring Framework] Java, JSP, Oracle, mybatis
+[Spring Framework] Java, JSP, Oracle, mybatis, test
